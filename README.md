@@ -23,18 +23,5 @@
 
 </br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlagArihant2000&theme=dark" /> 
-
+<img align="left" src="https://github-readme-stats.vercel.app/api/?username=FlagArihant2000&theme=dark" />
 
