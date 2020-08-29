@@ -21,5 +21,8 @@
   <img align="left" alt="Youtube" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlagArihant2000&theme=dark" /> <img align="left" src="https://github-readme-stats.vercel.app/api/?username=FlagArihant2000&theme=dark" />
+</br>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlagArihant2000&theme=dark" /> 
+<img align="left" src="https://github-readme-stats.vercel.app/api/?username=FlagArihant2000&theme=dark" />
 
