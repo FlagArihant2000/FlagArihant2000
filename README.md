@@ -1,5 +1,5 @@
 ## About Me
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=FlagArihant2000" alt="FlagArihant2000" /> </p>
 * Hello! I am a third-year engineering student studying Bachelors of Technology (B.Tech.) in Electrical and Electronics Engineering (EEE) from Visvesvaraya National Institute of Technology (VNIT), Nagpur.
 * My areas of interest include image processing, computer vision, multiview geometry, vision based deep learning and an emerging interest in abstract mathematics.
 * I am currently working on a couple of projects, one on Structure from Motion (SfM) and the other on Deep Learning based object detection methods.
