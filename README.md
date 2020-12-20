@@ -2,12 +2,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FlagArihant2000" alt="FlagArihant2000" /> </p>
 
 
-* Hello! I am a third-year engineering student studying Bachelors of Technology (B.Tech.) in Electrical and Electronics Engineering (EEE) from Visvesvaraya National Institute of Technology (VNIT), Nagpur.
-* My areas of interest include image processing, computer vision, multiview geometry, vision based deep learning and an emerging interest in abstract mathematics.
-* I am currently working on a couple of projects, one on Structure from Motion (SfM) and the other on Deep Learning based object detection methods.
+* B.Tech. (2022) Electrical and Electronics Engineering.
+* Have experience with multiview geometry, computer vision, vision based deep learning and image processing.
+* I am currently working on a couple of projects, one on Structure from Motion (SfM) and the other on Object Detection.
 * I have been working in the field of computer vision and multiview geometry for quite a while now and have done many projects and a [publication](https://drive.google.com/file/d/1f9a8VDooN2E_1S1GYJWgXSeT1ot-k7bw/view).
 * I have been doing projects in order to understand the fundamentals and the mathematics behind them. Planning a career in academia, I have always enjoyed learning from my projects and then applying them to various research problems.
-* Check out [my website](https://flagarihant2000.github.io/arihantgaur/) and [GitHub repositories](https://github.com/FlagArihant2000?tab=repositories).
+* Check out [my website](https://flagarihant2000.github.io/arihantgaur/)
 
 ## Connect with Me
 
