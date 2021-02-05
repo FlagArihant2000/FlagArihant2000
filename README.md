@@ -28,6 +28,4 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/?username=FlagArihant2000&theme=dark" />
 
-```markdown
-![Metrics](https://metrics.lecoq.io/FlagArihant2000?template=classic&languages=1&isocalendar=1&followup=1&isocalendar.duration=undefined&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FCalcutta&config.animated=true)
-```
+![Metrics](https://metrics.lecoq.io/FlagArihant2000?template=classic&config.timezone=Asia%2FCalcutta&config.animated=true)
