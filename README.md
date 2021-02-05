@@ -26,5 +26,3 @@
 
 </br>
 
-
-![Metrics](https://metrics.lecoq.io/FlagArihant2000?template=classic&config.timezone=Asia%2FCalcutta&config.animated=true)
