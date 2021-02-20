@@ -3,7 +3,7 @@
 
 
 * B.Tech. (2022) Electrical and Electronics Engineering.
-* Have experience with multiview geometry, computer vision, vision based deep learning and image processing.
+* Have experience with multiview geometry, computer vision, image processing and deep learning.
 * I am currently working on Image Semantic Segmentation (U - Net architecture), Structure from Motion (SfM) and object detection.
 * I have been working in the field of computer vision and multiview geometry for quite a while now and have done many projects and a [publication](https://drive.google.com/file/d/1f9a8VDooN2E_1S1GYJWgXSeT1ot-k7bw/view).
 * I have been doing projects in order to understand the fundamentals and the mathematics behind them. Planning a career in academia, I have always enjoyed learning from my projects and then applying them to various research problems.
