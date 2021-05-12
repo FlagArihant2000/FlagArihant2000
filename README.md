@@ -3,8 +3,8 @@
 
 
 * B.Tech. (2022) Electrical and Electronics Engineering.
-* Have experience with geometry based vision and deep learning.
-* I am currently working on Visual SLAM (VSLAM) and differentiable 3D Reconstruction.
+* I work on Computer Vision (Both geometry based and deep learning based)
+* I am currently working on Scene Understanding and Differentiable VO.
 * I have previously worked on incremental structure from motion, visual odometry, image stitching and panorama and HCI.
 * I have been doing projects in order to understand the fundamentals and the mathematics behind them. Planning a career in academia, I have always enjoyed learning from my projects and then applying them to various research problems.
 * Check out [my website](https://flagarihant2000.github.io/arihantgaur/)
