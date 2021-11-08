@@ -4,8 +4,10 @@
 
 * B.Tech. (2022) Electrical and Electronics Engineering.
 * I work on Computer Vision (3D)
-* Currently working on registration problem, scene understanding and differentiable VO.
-* I have previously worked on incremental structure from motion, visual odometry, image stitching and panorama and HCI.
+* Currently working on 3D registration, holistic scene understanding, visual odometry and domain adaptation.
+* I have previously worked on incremental structure from motion, image stitching and panorama and HCI.
+* In my free time, I read books on history and geopolitics.
+* I also like chess and cricket.
 * Check out [my website](https://flagarihant2000.github.io/arihantgaur/)
 
 ## Connect with Me
